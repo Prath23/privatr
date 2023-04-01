@@ -1,1 +1,6 @@
+Works like object detection
+first creates/takes a static image when run which is used as the refrence frame
+Now from the camera we take input and each frame is compared with the intial refrence frame
+Diffrence from the frames is detected using filters and convolution
+Every movement that will be done in the frame is detected and rectangel box is drawn aroud it to show it visualy
 
